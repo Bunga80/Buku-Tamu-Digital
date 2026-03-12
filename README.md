@@ -27,4 +27,4 @@ https://github.com/Bunga80/Buku-Tamu-Digital
 ![Dashboard](screenshot1/dashboard.png)
 
 ## Developer
-Bunga Amelia
+Bunga Amelia, Desi Ayu Safitri, Seila, Silvia Oktaviani
